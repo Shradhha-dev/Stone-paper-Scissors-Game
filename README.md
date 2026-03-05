@@ -72,18 +72,6 @@ Example:
 
 ---
 
-## 💡 Future Improvements
-
-Possible improvements for this project:
-
-- Add animations for moves
-- Improve UI design
-- Add sound effects
-- Add multiplayer mode
-- Track game history
-
----
-
 ## 👩‍💻 Author
 
 Shradhha  
